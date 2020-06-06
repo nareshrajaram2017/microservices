@@ -1,0 +1,5 @@
+package com.springcloud.controllers;
+
+public class ProductRestControllers {
+
+}
